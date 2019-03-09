@@ -14,13 +14,21 @@
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
     "@angular/compiler": "~7.2.0",
+<<<<<<< HEAD
     "@angular/core": "~7.2.0",
+=======
+    "@angular/core": "^7.2.8",
+>>>>>>> d70c0fd1a6a4becd6548ec963c16d2c39630d9ce
     "@angular/forms": "~7.2.0",
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
+<<<<<<< HEAD
+=======
+    "sweetalert2": "^8.2.6",
+>>>>>>> d70c0fd1a6a4becd6548ec963c16d2c39630d9ce
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },

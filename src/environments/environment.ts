@@ -3,7 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+<<<<<<< HEAD
   production: false
+=======
+  production: false,
+  apiPV: 'http://139.162.28.184:3456'
+>>>>>>> d70c0fd1a6a4becd6548ec963c16d2c39630d9ce
 };
 
 /*
